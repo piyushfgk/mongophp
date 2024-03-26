@@ -4,9 +4,11 @@
  * Basic driver connection with composer (recommended)
  * PHP Mongo drivers must be installed
  * See docs: https://www.mongodb.com/docs/drivers/php-drivers/
- * 
- * I have installed and tested on Mongo Community Edition in Windows 64-bit
+ *
+ * Tested in PHP 8.10 and mongo db version 1.13 from PECL
+ * I have installed and tested on Mongo Community Edition 7 in Windows 64-bit
  * Installed with default complete setup
+ *
  * Use MongoDBCompass application to connect with database
  */
 
